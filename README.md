@@ -130,7 +130,7 @@ Execute the program using runserver command.
 ![image](https://github.com/Madhan213/slot/assets/130206230/d2ba6648-7510-4ec1-a83b-7fab29d92667)
 
 
-## HTML VALIDATOR
+
 
 
 ## RESULT
